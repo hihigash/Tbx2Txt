@@ -2,7 +2,7 @@
   "profiles": {
     "Tbx2Csv": {
       "commandName": "Project",
-      "commandLineArgs": "-i MicrosoftTermCollection.tbx -o . -f en-US -t ja-JP"
+      "commandLineArgs": "-i MicrosoftTermCollection.tbx -o . -f en-US -t ja-JP --tsv"
     }
   }
 }
